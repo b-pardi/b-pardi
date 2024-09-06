@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **b-pardi/b-pardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# About Me:
 ⚙️ Currently working on implementing my own Machine learning algorithms with extensive visualizations in Python with no ML libraries. Algorithms such as NEAT, convolutions, general feed forward nets, and more!<br><br>🔧 Also maintaining and improving a published biophysics research tool for Quartz Crystal Microbalance with Dissipation (QCM-D) experimental data.<br><br>⚡ Fun fact: I have metal in my body 😵
 
 
