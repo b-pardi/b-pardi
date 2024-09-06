@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=b-pardi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-pardi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-pardi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-pardi&langs_count=9&hide=rescript,shell)](https://github.com/b-pardi/github-readme-stats)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=b-pardi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
