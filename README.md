@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 # About Me:
 ⚙️ Current M.S. -> PhD Computer Science student at the University of California, Davis. Researching under Dr. Emilie Roncali on using optiGAN (our lab's WGAN-GP model) to approximate particle physics simulations of the Gamma interactions of scintillation crystals in PET scanners. <br>
+
 ⛭ Side projects include: Extending Google's Seq2Seq VAE to model the temporal domain as well as spatial features of hand drawn sketches, making an algorithm to automatically sort songs into a given user's playlist based on song features, and implementing my own Machine learning algorithms with extensive visualizations in Python with no ML libraries. Algorithms such as NEAT, convolutions, general feed forward nets, and more.<br>
+
 🔧 Maintaining and improving a published biophysics research tool for Quartz Crystal Microbalance with Dissipation (QCM-D) experimental data.<br>
+
 ⚡ Fun fact: I have metal in my body 😵
 
 
