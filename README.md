@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I have metal in my body 😵
 
 
+
 ## 🌐 Socials:
-[![Personal Portfolio](https://bpardi.com/favicon2.ico)](https://bpardi.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-pardi-650464253/) [![ORCID]([https://bpardi.com/favicon.ico](https://upload.wikimedia.org/wikipedia/commons/f/f7/Orcid_icon.png))]([https://bpardi.com](https://orcid.org/0000-0001-6483-9858))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=data:image/x-icon;base64,<BASE64_ENCODED_ICON>&logoColor=white)](https://bpardi.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-pardi-650464253/) [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-6483-9858)
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brandonpardi1999) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_pardi_has_arrived) 
 
 # 💻 Tech Stack:
